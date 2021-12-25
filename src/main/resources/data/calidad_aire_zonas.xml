@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<calidad_aire_zonas>
+  <item>
+    <zona_calidad_aire_codigo>1</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 1 AGLOMERACIÓN MADRID CIUDAD</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>MADRID</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>2</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 2 AGLOMERACIÓN CORREDOR DEL HENARES</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>AJALVIR</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>2</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 2 AGLOMERACIÓN CORREDOR DEL HENARES</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>ALCALÁ DE HENARES</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>2</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 2 AGLOMERACIÓN CORREDOR DEL HENARES</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>ALCOBENDAS</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>2</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 2 AGLOMERACIÓN CORREDOR DEL HENARES</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>ALGETE</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>2</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 2 AGLOMERACIÓN CORREDOR DEL HENARES</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>ANCHUELO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>2</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 2 AGLOMERACIÓN CORREDOR DEL HENARES</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>ARGANDA DEL REY</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>2</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 2 AGLOMERACIÓN CORREDOR DEL HENARES</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>CAMARMA DE ESTERUELAS</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>2</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 2 AGLOMERACIÓN CORREDOR DEL HENARES</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>COBEÑA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>2</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 2 AGLOMERACIÓN CORREDOR DEL HENARES</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>COSLADA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>2</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 2 AGLOMERACIÓN CORREDOR DEL HENARES</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>DAGANZO DE ARRIBA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>2</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 2 AGLOMERACIÓN CORREDOR DEL HENARES</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>LOECHES</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>2</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 2 AGLOMERACIÓN CORREDOR DEL HENARES</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>MECO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>2</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 2 AGLOMERACIÓN CORREDOR DEL HENARES</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>MEJORADA DEL CAMPO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>2</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 2 AGLOMERACIÓN CORREDOR DEL HENARES</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>MORATA DE TAJUÑA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>2</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 2 AGLOMERACIÓN CORREDOR DEL HENARES</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>PARACUELLOS DE JARAMA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>2</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 2 AGLOMERACIÓN CORREDOR DEL HENARES</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>RIVAS-VACIAMADRID</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>2</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 2 AGLOMERACIÓN CORREDOR DEL HENARES</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>SAN FERNANDO DE HENARES</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>2</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 2 AGLOMERACIÓN CORREDOR DEL HENARES</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>SAN SEBASTIÁN DE LOS REYES</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>2</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 2 AGLOMERACIÓN CORREDOR DEL HENARES</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>SANTOS DE LA HUMOSA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>2</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 2 AGLOMERACIÓN CORREDOR DEL HENARES</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>TORREJON DE ARDOZ</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>2</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 2 AGLOMERACIÓN CORREDOR DEL HENARES</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>TORRES DE LA ALAMEDA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>2</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 2 AGLOMERACIÓN CORREDOR DEL HENARES</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>VELILLA DE SAN ANTONIO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>2</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 2 AGLOMERACIÓN CORREDOR DEL HENARES</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>VILLALBILLA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>EL ÁLAMO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>ALCORCÓN</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>ARANJUEZ</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>ARROYOMOLINOS</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>BATRES</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>CASARRUBUELOS</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>CHINCHÓN</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>CIEMPOZUELOS</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>COLMENAR DE OREJA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>CUBAS DE LA SAGRA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>FUENLABRADA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>GETAFE</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>GRIÑÓN</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>HUMANES DE MADRID</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>LEGANÉS</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>MORALEJA DE ENMEDIO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>MÓSTOLES</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>NAVALCARNERO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>PARLA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>PINTO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>SAN MARTÍN DE LA VEGA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>SERRANILLOS DEL VALLE</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>TITULCIA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>TORREJÓN DE LA CALZADA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>TORREJÓN DE VELASCO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>VALDEMORO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>VILLACONEJOS</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>3</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 3 AGLOMERACIÓN URBANA SUR</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>VILLAVICIOSA DE ODÓN</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>4</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 4 AGLOMERACIÓN URBANA NOROESTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>ALPEDRETE</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>4</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 4 AGLOMERACIÓN URBANA NOROESTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>BOADILLA DEL MONTE</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>4</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 4 AGLOMERACIÓN URBANA NOROESTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>CERCEDILLA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>4</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 4 AGLOMERACIÓN URBANA NOROESTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>COLLADO MEDIANO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>4</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 4 AGLOMERACIÓN URBANA NOROESTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>COLLADO VILLALBA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>4</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 4 AGLOMERACIÓN URBANA NOROESTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>COLMENAR VIEJO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>4</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 4 AGLOMERACIÓN URBANA NOROESTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>COLMENAREJO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>4</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 4 AGLOMERACIÓN URBANA NOROESTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>EL ESCORIAL</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>4</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 4 AGLOMERACIÓN URBANA NOROESTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>GALAPAGAR</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>4</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 4 AGLOMERACIÓN URBANA NOROESTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>GUADARRAMA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>4</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 4 AGLOMERACIÓN URBANA NOROESTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>HOYO DE MANZANARES</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>4</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 4 AGLOMERACIÓN URBANA NOROESTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>MAJADAHONDA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>4</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 4 AGLOMERACIÓN URBANA NOROESTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>LOS MOLINOS</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>4</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 4 AGLOMERACIÓN URBANA NOROESTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>MORALZARZAL</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>4</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 4 AGLOMERACIÓN URBANA NOROESTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>POZUELO DE ALARCÓN</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>4</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 4 AGLOMERACIÓN URBANA NOROESTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>LAS ROZAS DE MADRID</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>4</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 4 AGLOMERACIÓN URBANA NOROESTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>SAN AGUSTÍN DEL GUADALIX</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>4</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 4 AGLOMERACIÓN URBANA NOROESTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>SAN LORENZO DE EL ESCORIAL</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>4</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 4 AGLOMERACIÓN URBANA NOROESTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>TORRELODONES</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>4</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 4 AGLOMERACIÓN URBANA NOROESTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>TRES CANTOS</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>4</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 4 AGLOMERACIÓN URBANA NOROESTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>VILLANUEVA DE LA CAÑADA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>4</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 4 AGLOMERACIÓN URBANA NOROESTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>VILLANUEVA DEL PARDILLO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>ACEBEDA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>ALAMEDA DEL VALLE</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>EL ATAZAR</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>BECERRIL DE LA SIERRA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>EL BERRUECO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>BERZOSA DEL LOZOYA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>EL BOALO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>BRAOJOS</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>BUITRAGO DEL LOZOYA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>BUSTARVIEJO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>CABANILLAS DE LA SIERRA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>LA CABRERA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>CANENCIA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>CERVERA DE BUITRAGO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>FRESNO DE TOROTE</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>FUENTE EL SAZ DE JARAMA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>GARGANTA DE LOS MONTES</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>GARGANTILLA DEL LOZOYA Y PINILLA DE BUITRAGO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>GASCONES</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>GUADALIX DE LA SIERRA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>LA HIRUELA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>HORCAJO DE LA SIERRA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>HORCAJUELO DE LA SIERRA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>LOZOYA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>LOZOYUELA-NAVAS-SIETEIGLESIAS</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>MADARCOS</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>MANZANARES EL REAL</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>MIRAFLORES DE LA SIERRA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>EL MOLAR</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>MONTEJO DE LA SIERRA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>NAVACERRADA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>NAVALAFUENTE</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>NAVARREDONDA Y SAN MAMÉS</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>PATONES</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>PEDREZUELA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>PINILLA DEL VALLE</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>PIÑUECAR-GANDULLAS</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>PRADENA DEL RINCÓN</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>PUEBLA DE LA SIERRA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>PUENTES VIEJAS</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>RASCAFRÍA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>REDUEÑA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>RIBATEJADA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>ROBLEDILLO DE LA JARA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>ROBREGORDO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>LA SERNA DEL MONTE</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>SOMOSIERRA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>SOTO DEL REAL</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>TALAMANCA DE JARAMA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>TORRELAGUNA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>TORREMOCHA DE JARAMA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>VALDEAVERO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>VALDEMANCO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>VALDEOLMOS ALALPARDO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>VALDEPIÉLAGOS</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>VALDETORRES DE JARAMA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>EL VELLÓN</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>VENTURADA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>5</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 5 SIERRA NORTE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>VILLAVIEJA DEL LOZOYA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>6</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 6 CUENCA DEL ALBERCHE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>ALDEA DEL FRESNO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>6</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 6 CUENCA DEL ALBERCHE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>BRUNETE</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>6</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 6 CUENCA DEL ALBERCHE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>CADALSO DE LOS VIDRIOS</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>6</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 6 CUENCA DEL ALBERCHE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>CENICIENTOS</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>6</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 6 CUENCA DEL ALBERCHE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>CHAPINERÍA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>6</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 6 CUENCA DEL ALBERCHE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>COLMENAR DEL ARROYO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>6</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 6 CUENCA DEL ALBERCHE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>FRESNEDILLAS DE LA OLIVA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>6</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 6 CUENCA DEL ALBERCHE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>NAVALAGAMELLA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>6</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 6 CUENCA DEL ALBERCHE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>NAVAS DEL REY</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>6</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 6 CUENCA DEL ALBERCHE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>PELAYOS DE LA PRESA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>6</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 6 CUENCA DEL ALBERCHE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>QUIJORNA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>6</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 6 CUENCA DEL ALBERCHE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>ROBLEDO DE CHAVELA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>6</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 6 CUENCA DEL ALBERCHE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>ROZAS DE PUERTO REAL</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>6</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 6 CUENCA DEL ALBERCHE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>SAN MARTÍN DE VALDEIGLESIAS</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>6</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 6 CUENCA DEL ALBERCHE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>SANTA MARÍA DE LA ALAMEDA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>6</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 6 CUENCA DEL ALBERCHE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>SEVILLA LA NUEVA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>6</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 6 CUENCA DEL ALBERCHE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>VALDEMAQUEDA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>6</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 6 CUENCA DEL ALBERCHE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>VALDEMORILLO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>6</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 6 CUENCA DEL ALBERCHE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>VILLA DEL PRADO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>6</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 6 CUENCA DEL ALBERCHE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>VILLAMANTA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>6</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 6 CUENCA DEL ALBERCHE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>VILLAMANTILLA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>6</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 6 CUENCA DEL ALBERCHE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>VILLANUEVA DE PERALES</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>6</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 6 CUENCA DEL ALBERCHE</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>ZARZALEJO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>7</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 7 CUENCA DEL TAJUÑA</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>AMBITE</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>7</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 7 CUENCA DEL TAJUÑA</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>BELMONTE DE TAJO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>7</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 7 CUENCA DEL TAJUÑA</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>BREA DE TAJO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>7</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 7 CUENCA DEL TAJUÑA</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>CAMPO REAL</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>7</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 7 CUENCA DEL TAJUÑA</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>CARABAÑA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>7</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 7 CUENCA DEL TAJUÑA</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>CORPA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>7</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 7 CUENCA DEL TAJUÑA</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>ESTREMERA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>7</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 7 CUENCA DEL TAJUÑA</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>FUENTIDUEÑA DE TAJO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>7</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 7 CUENCA DEL TAJUÑA</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>NUEVO BAZTÁN</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>7</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 7 CUENCA DEL TAJUÑA</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>OLMEDA DE LAS FUENTES</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>7</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 7 CUENCA DEL TAJUÑA</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>ORUSCO DE TAJUÑA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>7</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 7 CUENCA DEL TAJUÑA</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>PERALES DE TAJUÑA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>7</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 7 CUENCA DEL TAJUÑA</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>PEZUELA DE LAS TORRES</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>7</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 7 CUENCA DEL TAJUÑA</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>POZUELO DEL REY</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>7</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 7 CUENCA DEL TAJUÑA</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>SANTORCAZ</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>7</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 7 CUENCA DEL TAJUÑA</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>TIELMES</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>7</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 7 CUENCA DEL TAJUÑA</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>VALDARACETE</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>7</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 7 CUENCA DEL TAJUÑA</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>VALDELAGUNA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>7</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 7 CUENCA DEL TAJUÑA</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>VALDILECHA</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>7</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 7 CUENCA DEL TAJUÑA</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>VALVERDE DE ALCALÁ</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>7</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 7 CUENCA DEL TAJUÑA</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>VILLAMANRIQUE DE TAJO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>7</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 7 CUENCA DEL TAJUÑA</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>VILLAR DEL OLMO</zona_calidad_aire_municipio>
+  </item>
+  <item>
+    <zona_calidad_aire_codigo>7</zona_calidad_aire_codigo>
+    <zona_calidad_aire_descripcion>ZONA 7 CUENCA DEL TAJUÑA</zona_calidad_aire_descripcion>
+    <zona_calidad_aire_municipio>VILLAREJO DE SALVANÉS</zona_calidad_aire_municipio>
+  </item>
+</calidad_aire_zonas>

@@ -1,0 +1,8 @@
+cod_magnitud;desc_magnitud;cod_tec_medida;unidad;desc_unidad
+81;Velocidad del viento;89;m/s;metros por segundo
+82;Dirección del viento;89;Grd;grados
+83;Temperatura;89;ºc;grados centígrados
+86;Humedad relativa;89;%;porcentaje
+87;Presión atmosférica;89;mbar;milibar
+88;Radiación solar;89;W/m2;vatios por metro cuadrado
+89;Precipitación;89;l/m2;litros por metro cuadrado

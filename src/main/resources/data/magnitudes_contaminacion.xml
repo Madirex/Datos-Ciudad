@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<magnitudes_contaminacion>
+  <item>
+    <cod_magnitud>1</cod_magnitud>
+    <desc_magnitud>Dióxido de azufre</desc_magnitud>
+    <cod_tec_medida>38</cod_tec_medida>
+    <desc_tec_medida>Fluorescencia ultravioleta</desc_tec_medida>
+    <unidad>?g/m³</unidad>
+    <desc_unidad>microgramos por metro cúbico</desc_unidad>
+  </item>
+  <item>
+    <cod_magnitud>6</cod_magnitud>
+    <desc_magnitud>Monóxido de carbono</desc_magnitud>
+    <cod_tec_medida>48</cod_tec_medida>
+    <desc_tec_medida>Espectrometría infrarroja no dispersiva</desc_tec_medida>
+    <unidad>mg/m³</unidad>
+    <desc_unidad>miligramos por metro cúbico</desc_unidad>
+  </item>
+  <item>
+    <cod_magnitud>7</cod_magnitud>
+    <desc_magnitud>Monóxido de nitrógeno</desc_magnitud>
+    <cod_tec_medida>8</cod_tec_medida>
+    <desc_tec_medida>Quimioluminiscencia</desc_tec_medida>
+    <unidad>?g/m³</unidad>
+    <desc_unidad>microgramos por metro cúbico</desc_unidad>
+  </item>
+  <item>
+    <cod_magnitud>8</cod_magnitud>
+    <desc_magnitud>Dióxido de nitrógeno</desc_magnitud>
+    <cod_tec_medida>8</cod_tec_medida>
+    <desc_tec_medida>Quimioluminiscencia</desc_tec_medida>
+    <unidad>?g/m³</unidad>
+    <desc_unidad>microgramos por metro cúbico</desc_unidad>
+  </item>
+  <item>
+    <cod_magnitud>9</cod_magnitud>
+    <desc_magnitud>Partículas en suspensión &lt; PM2,5</desc_magnitud>
+    <cod_tec_medida>49</cod_tec_medida>
+    <desc_tec_medida>Absorción beta</desc_tec_medida>
+    <unidad>?g/m³</unidad>
+    <desc_unidad>microgramos por metro cúbico</desc_unidad>
+  </item>
+  <item>
+    <cod_magnitud>10</cod_magnitud>
+    <desc_magnitud>Partículas en suspensión &lt; PM10</desc_magnitud>
+    <cod_tec_medida>49</cod_tec_medida>
+    <desc_tec_medida>Absorción beta</desc_tec_medida>
+    <unidad>?g/m³</unidad>
+    <desc_unidad>microgramos por metro cúbico</desc_unidad>
+  </item>
+  <item>
+    <cod_magnitud>12</cod_magnitud>
+    <desc_magnitud>Óxidos de nitrógeno</desc_magnitud>
+    <cod_tec_medida>8</cod_tec_medida>
+    <desc_tec_medida>Quimioluminiscencia</desc_tec_medida>
+    <unidad>?g/m³</unidad>
+    <desc_unidad>microgramos por metro cúbico</desc_unidad>
+  </item>
+  <item>
+    <cod_magnitud>14</cod_magnitud>
+    <desc_magnitud>Ozono</desc_magnitud>
+    <cod_tec_medida>6</cod_tec_medida>
+    <desc_tec_medida>Absorción ultravioleta</desc_tec_medida>
+    <unidad>?g/m³</unidad>
+    <desc_unidad>microgramos por metro cúbico</desc_unidad>
+  </item>
+  <item>
+    <cod_magnitud>20</cod_magnitud>
+    <desc_magnitud>Tolueno</desc_magnitud>
+    <cod_tec_medida>59</cod_tec_medida>
+    <desc_tec_medida>Cromatografía de gases</desc_tec_medida>
+    <unidad>?g/m³</unidad>
+    <desc_unidad>microgramos por metro cúbico</desc_unidad>
+  </item>
+  <item>
+    <cod_magnitud>22</cod_magnitud>
+    <desc_magnitud>Black Carbon</desc_magnitud>
+    <cod_tec_medida>7</cod_tec_medida>
+    <desc_tec_medida>Absorción de luz</desc_tec_medida>
+    <unidad>?g/m³</unidad>
+    <desc_unidad>microgramos por metro cúbico</desc_unidad>
+  </item>
+  <item>
+    <cod_magnitud>30</cod_magnitud>
+    <desc_magnitud>Benceno</desc_magnitud>
+    <cod_tec_medida>59</cod_tec_medida>
+    <desc_tec_medida>Cromatografía de gases</desc_tec_medida>
+    <unidad>?g/m³</unidad>
+    <desc_unidad>microgramos por metro cúbico</desc_unidad>
+  </item>
+  <item>
+    <cod_magnitud>42</cod_magnitud>
+    <desc_magnitud>Hidrocarburos totales</desc_magnitud>
+    <cod_tec_medida>2</cod_tec_medida>
+    <desc_tec_medida>Ionización llama</desc_tec_medida>
+    <unidad>mg/m³</unidad>
+    <desc_unidad>miligramos por metro cúbico</desc_unidad>
+  </item>
+  <item>
+    <cod_magnitud>44</cod_magnitud>
+    <desc_magnitud>Hidrocarburos no metánicos</desc_magnitud>
+    <cod_tec_medida>2</cod_tec_medida>
+    <desc_tec_medida>Ionización llama</desc_tec_medida>
+    <unidad>mg/m³</unidad>
+    <desc_unidad>miligramos por metro cúbico</desc_unidad>
+  </item>
+  <item>
+    <cod_magnitud>431</cod_magnitud>
+    <desc_magnitud>MetaParaXileno</desc_magnitud>
+    <cod_tec_medida>59</cod_tec_medida>
+    <desc_tec_medida>Cromatografía de gases</desc_tec_medida>
+    <unidad>?g/m³</unidad>
+    <desc_unidad>microgramos por metro cúbico</desc_unidad>
+  </item>
+</magnitudes_contaminacion>

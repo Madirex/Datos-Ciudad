@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<calidad_aire_estaciones>
+  <item>
+    <estacion_codigo>28005002</estacion_codigo>
+    <zona_calidad_aire_descripcion>Zona 2 Corredor del Henares</zona_calidad_aire_descripcion>
+    <estacion_municipio>Alcalá de Henares</estacion_municipio>
+    <estacion_fecha_alta>2000/03/16 00:00:00.000</estacion_fecha_alta>
+    <estacion_tipo_area>Urbana</estacion_tipo_area>
+    <estacion_tipo_estacion>Tráfico</estacion_tipo_estacion>
+    <estacion_subarea_rural />
+    <estacion_direccion_postal>C.E.I.P. Manuel Azaña, Avda. del Ejército, 5</estacion_direccion_postal>
+    <estacion_coord_UTM_ETRS89_x>467979</estacion_coord_UTM_ETRS89_x>
+    <estacion_coord_UTM_ETRS89_y>4481011</estacion_coord_UTM_ETRS89_y>
+    <estacion_coord_longitud>"03°22'40,0""W"</estacion_coord_longitud>
+    <estacion_coord_latitud>"40°28'45,0""N"</estacion_coord_latitud>
+    <estacion_altitud>595</estacion_altitud>
+    <estacion_analizador_NO>Si</estacion_analizador_NO>
+    <estacion_analizador_NO2>Si</estacion_analizador_NO2>
+    <estacion_analizador_PM10>Si</estacion_analizador_PM10>
+    <estacion_analizador_PM2_5>Si</estacion_analizador_PM2_5>
+    <estacion_analizador_O3>Si</estacion_analizador_O3>
+    <estacion_analizador_TOL />
+    <estacion_analizador_BEN />
+    <estacion_analizador_XIL />
+    <estacion_analizador_CO>Si</estacion_analizador_CO>
+    <estacion_analizador_SO2>Si</estacion_analizador_SO2>
+    <estacion_analizador_HCT />
+    <estacion_analizador_HNM />
+  </item>
+  <item>
+    <estacion_codigo>28006004</estacion_codigo>
+    <zona_calidad_aire_descripcion>Zona 2 Corredor del Henares</zona_calidad_aire_descripcion>
+    <estacion_municipio>Alcobendas</estacion_municipio>
+    <estacion_fecha_alta>2000/01/19 00:00:00.000</estacion_fecha_alta>
+    <estacion_tipo_area>Urbana</estacion_tipo_area>
+    <estacion_tipo_estacion>Tráfico</estacion_tipo_estacion>
+    <estacion_subarea_rural />
+    <estacion_direccion_postal>Parque de Andalucía, C/ Pintor Murillo</estacion_direccion_postal>
+    <estacion_coord_UTM_ETRS89_x>445363</estacion_coord_UTM_ETRS89_x>
+    <estacion_coord_UTM_ETRS89_y>4487950</estacion_coord_UTM_ETRS89_y>
+    <estacion_coord_longitud>"03°38'42,7""W"</estacion_coord_longitud>
+    <estacion_coord_latitud>"40°32'25,8""N"</estacion_coord_latitud>
+    <estacion_altitud>688</estacion_altitud>
+    <estacion_analizador_NO>Si</estacion_analizador_NO>
+    <estacion_analizador_NO2>Si</estacion_analizador_NO2>
+    <estacion_analizador_PM10>Si</estacion_analizador_PM10>
+    <estacion_analizador_PM2_5 />
+    <estacion_analizador_O3>Si</estacion_analizador_O3>
+    <estacion_analizador_TOL>Si</estacion_analizador_TOL>
+    <estacion_analizador_BEN>Si</estacion_analizador_BEN>
+    <estacion_analizador_XIL>Si</estacion_analizador_XIL>
+    <estacion_analizador_CO />
+    <estacion_analizador_SO2 />
+    <estacion_analizador_HCT>Si</estacion_analizador_HCT>
+    <estacion_analizador_HNM>Si</estacion_analizador_HNM>
+  </item>
+  <item>
+    <estacion_codigo>28007004</estacion_codigo>
+    <zona_calidad_aire_descripcion>Zona 3 Urbana Sur</zona_calidad_aire_descripcion>
+    <estacion_municipio>Alcorcón</estacion_municipio>
+    <estacion_fecha_alta>2008/09/11 00:00:00.000</estacion_fecha_alta>
+    <estacion_tipo_area>Urbana</estacion_tipo_area>
+    <estacion_tipo_estacion>Fondo</estacion_tipo_estacion>
+    <estacion_subarea_rural />
+    <estacion_direccion_postal>Colegio Blas de Otero, Avda. del Oeste, 4</estacion_direccion_postal>
+    <estacion_coord_UTM_ETRS89_x>429190</estacion_coord_UTM_ETRS89_x>
+    <estacion_coord_UTM_ETRS89_y>4466041</estacion_coord_UTM_ETRS89_y>
+    <estacion_coord_longitud>"03°50'01,4""W"</estacion_coord_longitud>
+    <estacion_coord_latitud>"40°20'30,9""N"</estacion_coord_latitud>
+    <estacion_altitud>693</estacion_altitud>
+    <estacion_analizador_NO>Si</estacion_analizador_NO>
+    <estacion_analizador_NO2>Si</estacion_analizador_NO2>
+    <estacion_analizador_PM10 />
+    <estacion_analizador_PM2_5>Si</estacion_analizador_PM2_5>
+    <estacion_analizador_O3>Si</estacion_analizador_O3>
+    <estacion_analizador_TOL />
+    <estacion_analizador_BEN />
+    <estacion_analizador_XIL />
+    <estacion_analizador_CO />
+    <estacion_analizador_SO2 />
+    <estacion_analizador_HCT />
+    <estacion_analizador_HNM />
+  </item>
+  <item>
+    <estacion_codigo>28009001</estacion_codigo>
+    <zona_calidad_aire_descripcion>Zona 2 Corredor del Henares</zona_calidad_aire_descripcion>
+    <estacion_municipio>Algete</estacion_municipio>
+    <estacion_fecha_alta>2007/03/31 00:00:00.000</estacion_fecha_alta>
+    <estacion_tipo_area>Suburbana</estacion_tipo_area>
+    <estacion_tipo_estacion>Fondo</estacion_tipo_estacion>
+    <estacion_subarea_rural />
+    <estacion_direccion_postal>Parque Europa, C/ Humilladero con C/ Francisco Quevedo</estacion_direccion_postal>
+    <estacion_coord_UTM_ETRS89_x>457418</estacion_coord_UTM_ETRS89_x>
+    <estacion_coord_UTM_ETRS89_y>4494449</estacion_coord_UTM_ETRS89_y>
+    <estacion_coord_longitud>03°30'11,8''W</estacion_coord_longitud>
+    <estacion_coord_latitud>40°35'59,1''N</estacion_coord_latitud>
+    <estacion_altitud>800</estacion_altitud>
+    <estacion_analizador_NO>Si</estacion_analizador_NO>
+    <estacion_analizador_NO2>Si</estacion_analizador_NO2>
+    <estacion_analizador_PM10>Si</estacion_analizador_PM10>
+    <estacion_analizador_PM2_5 />
+    <estacion_analizador_O3>Si</estacion_analizador_O3>
+    <estacion_analizador_TOL />
+    <estacion_analizador_BEN />
+    <estacion_analizador_XIL />
+    <estacion_analizador_CO />
+    <estacion_analizador_SO2 />
+    <estacion_analizador_HCT />
+    <estacion_analizador_HNM />
+  </item>
+  <item>
+    <estacion_codigo>28013002</estacion_codigo>
+    <zona_calidad_aire_descripcion>Zona 3 Urbana Sur</zona_calidad_aire_descripcion>
+    <estacion_municipio>Aranjuez</estacion_municipio>
+    <estacion_fecha_alta>2001/10/06 00:00:00.000</estacion_fecha_alta>
+    <estacion_tipo_area>Suburbana</estacion_tipo_area>
+    <estacion_tipo_estacion>Fondo</estacion_tipo_estacion>
+    <estacion_subarea_rural />
+    <estacion_direccion_postal>Polideportivo Municipal Agustín Marañón, C/ Moreras (C/ Primero de Mayo, 4)</estacion_direccion_postal>
+    <estacion_coord_UTM_ETRS89_x>449541</estacion_coord_UTM_ETRS89_x>
+    <estacion_coord_UTM_ETRS89_y>4431618</estacion_coord_UTM_ETRS89_y>
+    <estacion_coord_longitud>03°35'29,1''W</estacion_coord_longitud>
+    <estacion_coord_latitud>40°01'59,8''N</estacion_coord_latitud>
+    <estacion_altitud>501</estacion_altitud>
+    <estacion_analizador_NO>Si</estacion_analizador_NO>
+    <estacion_analizador_NO2>Si</estacion_analizador_NO2>
+    <estacion_analizador_PM10>Si</estacion_analizador_PM10>
+    <estacion_analizador_PM2_5>Si</estacion_analizador_PM2_5>
+    <estacion_analizador_O3>Si</estacion_analizador_O3>
+    <estacion_analizador_TOL />
+    <estacion_analizador_BEN />
+    <estacion_analizador_XIL />
+    <estacion_analizador_CO />
+    <estacion_analizador_SO2 />
+    <estacion_analizador_HCT />
+    <estacion_analizador_HNM />
+  </item>
+  <item>
+    <estacion_codigo>28014002</estacion_codigo>
+    <zona_calidad_aire_descripcion>Zona 2 Corredor del Henares</zona_calidad_aire_descripcion>
+    <estacion_municipio>Arganda del Rey</estacion_municipio>
+    <estacion_fecha_alta>2006/04/25 00:00:00.000</estacion_fecha_alta>
+    <estacion_tipo_area>Urbana</estacion_tipo_area>
+    <estacion_tipo_estacion>Industrial</estacion_tipo_estacion>
+    <estacion_subarea_rural />
+    <estacion_direccion_postal>Punto Limpio, C/ Río Tajuña, 5</estacion_direccion_postal>
+    <estacion_coord_UTM_ETRS89_x>461002</estacion_coord_UTM_ETRS89_x>
+    <estacion_coord_UTM_ETRS89_y>4461246</estacion_coord_UTM_ETRS89_y>
+    <estacion_coord_longitud>"03°27'32,0""W"</estacion_coord_longitud>
+    <estacion_coord_latitud>"40°18'02,9""N"</estacion_coord_latitud>
+    <estacion_altitud>586</estacion_altitud>
+    <estacion_analizador_NO>Si</estacion_analizador_NO>
+    <estacion_analizador_NO2>Si</estacion_analizador_NO2>
+    <estacion_analizador_PM10>Si</estacion_analizador_PM10>
+    <estacion_analizador_PM2_5 />
+    <estacion_analizador_O3>Si</estacion_analizador_O3>
+    <estacion_analizador_TOL />
+    <estacion_analizador_BEN />
+    <estacion_analizador_XIL />
+    <estacion_analizador_CO />
+    <estacion_analizador_SO2 />
+    <estacion_analizador_HCT />
+    <estacion_analizador_HNM />
+  </item>
+  <item>
+    <estacion_codigo>28016001</estacion_codigo>
+    <zona_calidad_aire_descripcion>Zona 5 Sierra Norte</zona_calidad_aire_descripcion>
+    <estacion_municipio>El Atazar</estacion_municipio>
+    <estacion_fecha_alta>2006/08/22 00:00:00.000</estacion_fecha_alta>
+    <estacion_tipo_area>Rural</estacion_tipo_area>
+    <estacion_tipo_estacion>Fondo</estacion_tipo_estacion>
+    <estacion_subarea_rural>Remota</estacion_subarea_rural>
+    <estacion_direccion_postal>Instalaciones del Canal de Isabel II</estacion_direccion_postal>
+    <estacion_coord_UTM_ETRS89_x>460596</estacion_coord_UTM_ETRS89_x>
+    <estacion_coord_UTM_ETRS89_y>4528767</estacion_coord_UTM_ETRS89_y>
+    <estacion_coord_longitud>"03°28'04,4""W"</estacion_coord_longitud>
+    <estacion_coord_latitud>"40°54'32,6""N"</estacion_coord_latitud>
+    <estacion_altitud>995</estacion_altitud>
+    <estacion_analizador_NO>Si</estacion_analizador_NO>
+    <estacion_analizador_NO2>Si</estacion_analizador_NO2>
+    <estacion_analizador_PM10>Si</estacion_analizador_PM10>
+    <estacion_analizador_PM2_5>Si</estacion_analizador_PM2_5>
+    <estacion_analizador_O3>Si</estacion_analizador_O3>
+    <estacion_analizador_TOL />
+    <estacion_analizador_BEN />
+    <estacion_analizador_XIL />
+    <estacion_analizador_CO />
+    <estacion_analizador_SO2 />
+    <estacion_analizador_HCT />
+    <estacion_analizador_HNM />
+  </item>
+  <item>
+    <estacion_codigo>28045002</estacion_codigo>
+    <zona_calidad_aire_descripcion>Zona 4 Urbana Noroeste</zona_calidad_aire_descripcion>
+    <estacion_municipio>Colmenar Viejo</estacion_municipio>
+    <estacion_fecha_alta>2001/10/06 00:00:00.000</estacion_fecha_alta>
+    <estacion_tipo_area>Urbana</estacion_tipo_area>
+    <estacion_tipo_estacion>Tráfico</estacion_tipo_estacion>
+    <estacion_subarea_rural />
+    <estacion_direccion_postal>Auditorio Municipal, C/ Molino de Viento, s/n</estacion_direccion_postal>
+    <estacion_coord_UTM_ETRS89_x>434586</estacion_coord_UTM_ETRS89_x>
+    <estacion_coord_UTM_ETRS89_y>4501818</estacion_coord_UTM_ETRS89_y>
+    <estacion_coord_longitud>03°46'26,0''W</estacion_coord_longitud>
+    <estacion_coord_latitud>40°39'52,7''N</estacion_coord_latitud>
+    <estacion_altitud>905</estacion_altitud>
+    <estacion_analizador_NO>Si</estacion_analizador_NO>
+    <estacion_analizador_NO2>Si</estacion_analizador_NO2>
+    <estacion_analizador_PM10 />
+    <estacion_analizador_PM2_5>Si</estacion_analizador_PM2_5>
+    <estacion_analizador_O3>Si</estacion_analizador_O3>
+    <estacion_analizador_TOL />
+    <estacion_analizador_BEN />
+    <estacion_analizador_XIL />
+    <estacion_analizador_CO />
+    <estacion_analizador_SO2 />
+    <estacion_analizador_HCT />
+    <estacion_analizador_HNM />
+  </item>
+  <item>
+    <estacion_codigo>28047002</estacion_codigo>
+    <zona_calidad_aire_descripcion>Zona 4 Urbana Noroeste</zona_calidad_aire_descripcion>
+    <estacion_municipio>Collado Villalba</estacion_municipio>
+    <estacion_fecha_alta>2006/05/31 00:00:00.000</estacion_fecha_alta>
+    <estacion_tipo_area>Urbana</estacion_tipo_area>
+    <estacion_tipo_estacion>Tráfico</estacion_tipo_estacion>
+    <estacion_subarea_rural />
+    <estacion_direccion_postal>Colegio Público Rosa Chacel, C/ Santa Teresa de Jesús, 12</estacion_direccion_postal>
+    <estacion_coord_UTM_ETRS89_x>414233</estacion_coord_UTM_ETRS89_x>
+    <estacion_coord_UTM_ETRS89_y>4498525</estacion_coord_UTM_ETRS89_y>
+    <estacion_coord_longitud>"04°00'51,1""W"</estacion_coord_longitud>
+    <estacion_coord_latitud>"40°37'59,2""N"</estacion_coord_latitud>
+    <estacion_altitud>873</estacion_altitud>
+    <estacion_analizador_NO>Si</estacion_analizador_NO>
+    <estacion_analizador_NO2>Si</estacion_analizador_NO2>
+    <estacion_analizador_PM10>Si</estacion_analizador_PM10>
+    <estacion_analizador_PM2_5 />
+    <estacion_analizador_O3>Si</estacion_analizador_O3>
+    <estacion_analizador_TOL />
+    <estacion_analizador_BEN />
+    <estacion_analizador_XIL />
+    <estacion_analizador_CO />
+    <estacion_analizador_SO2 />
+    <estacion_analizador_HCT />
+    <estacion_analizador_HNM />
+  </item>
+  <item>
+    <estacion_codigo>28049003</estacion_codigo>
+    <zona_calidad_aire_descripcion>Zona 2 Corredor del Henares</zona_calidad_aire_descripcion>
+    <estacion_municipio>Coslada</estacion_municipio>
+    <estacion_fecha_alta>2007/06/05 00:00:00.000</estacion_fecha_alta>
+    <estacion_tipo_area>Urbana</estacion_tipo_area>
+    <estacion_tipo_estacion>Tráfico</estacion_tipo_estacion>
+    <estacion_subarea_rural />
+    <estacion_direccion_postal>Polideportivo Municipal Valle Aguado, Avda. José Gárate, 8 (C/ Perú, 17)</estacion_direccion_postal>
+    <estacion_coord_UTM_ETRS89_x>454001</estacion_coord_UTM_ETRS89_x>
+    <estacion_coord_UTM_ETRS89_y>4475678</estacion_coord_UTM_ETRS89_y>
+    <estacion_coord_longitud>"03°32'32,3""W"</estacion_coord_longitud>
+    <estacion_coord_latitud>"40°25'49,7""N"</estacion_coord_latitud>
+    <estacion_altitud>621</estacion_altitud>
+    <estacion_analizador_NO>Si</estacion_analizador_NO>
+    <estacion_analizador_NO2>Si</estacion_analizador_NO2>
+    <estacion_analizador_PM10>Si</estacion_analizador_PM10>
+    <estacion_analizador_PM2_5 />
+    <estacion_analizador_O3>Si</estacion_analizador_O3>
+    <estacion_analizador_TOL>Si</estacion_analizador_TOL>
+    <estacion_analizador_BEN>Si</estacion_analizador_BEN>
+    <estacion_analizador_XIL>Si</estacion_analizador_XIL>
+    <estacion_analizador_CO />
+    <estacion_analizador_SO2 />
+    <estacion_analizador_HCT>Si</estacion_analizador_HCT>
+    <estacion_analizador_HNM>Si</estacion_analizador_HNM>
+  </item>
+  <item>
+    <estacion_codigo>28058004</estacion_codigo>
+    <zona_calidad_aire_descripcion>Zona 3 Urbana Sur</zona_calidad_aire_descripcion>
+    <estacion_municipio>Fuenlabrada</estacion_municipio>
+    <estacion_fecha_alta>2000/05/01 00:00:00.000</estacion_fecha_alta>
+    <estacion_tipo_area>Urbana</estacion_tipo_area>
+    <estacion_tipo_estacion>Industrial</estacion_tipo_estacion>
+    <estacion_subarea_rural />
+    <estacion_direccion_postal>C/ Grecia, 3 (trasera)</estacion_direccion_postal>
+    <estacion_coord_UTM_ETRS89_x>431913</estacion_coord_UTM_ETRS89_x>
+    <estacion_coord_UTM_ETRS89_y>4459313</estacion_coord_UTM_ETRS89_y>
+    <estacion_coord_longitud>"03°48'03,4""W"</estacion_coord_longitud>
+    <estacion_coord_latitud>"40°16'53,5""N"</estacion_coord_latitud>
+    <estacion_altitud>699</estacion_altitud>
+    <estacion_analizador_NO>Si</estacion_analizador_NO>
+    <estacion_analizador_NO2>Si</estacion_analizador_NO2>
+    <estacion_analizador_PM10>Si</estacion_analizador_PM10>
+    <estacion_analizador_PM2_5>Si</estacion_analizador_PM2_5>
+    <estacion_analizador_O3>Si</estacion_analizador_O3>
+    <estacion_analizador_TOL />
+    <estacion_analizador_BEN />
+    <estacion_analizador_XIL />
+    <estacion_analizador_CO />
+    <estacion_analizador_SO2 />
+    <estacion_analizador_HCT />
+    <estacion_analizador_HNM />
+  </item>
+  <item>
+    <estacion_codigo>28065014</estacion_codigo>
+    <zona_calidad_aire_descripcion>Zona 3 Urbana Sur</zona_calidad_aire_descripcion>
+    <estacion_municipio>Getafe</estacion_municipio>
+    <estacion_fecha_alta>2006/10/31 00:00:00.000</estacion_fecha_alta>
+    <estacion_tipo_area>Urbana</estacion_tipo_area>
+    <estacion_tipo_estacion>Tráfico</estacion_tipo_estacion>
+    <estacion_subarea_rural />
+    <estacion_direccion_postal>C.E.I.P. Mariana Pineda, Avda. de las Ciudades, 33</estacion_direccion_postal>
+    <estacion_coord_UTM_ETRS89_x>439090</estacion_coord_UTM_ETRS89_x>
+    <estacion_coord_UTM_ETRS89_y>4462920</estacion_coord_UTM_ETRS89_y>
+    <estacion_coord_longitud>"03°43'00,7""W"</estacion_coord_longitud>
+    <estacion_coord_latitud>"40°18'52,5""N"</estacion_coord_latitud>
+    <estacion_altitud>667</estacion_altitud>
+    <estacion_analizador_NO>Si</estacion_analizador_NO>
+    <estacion_analizador_NO2>Si</estacion_analizador_NO2>
+    <estacion_analizador_PM10>Si</estacion_analizador_PM10>
+    <estacion_analizador_PM2_5>Si</estacion_analizador_PM2_5>
+    <estacion_analizador_O3>Si</estacion_analizador_O3>
+    <estacion_analizador_TOL />
+    <estacion_analizador_BEN />
+    <estacion_analizador_XIL />
+    <estacion_analizador_CO />
+    <estacion_analizador_SO2 />
+    <estacion_analizador_HCT />
+    <estacion_analizador_HNM />
+  </item>
+  <item>
+    <estacion_codigo>28067001</estacion_codigo>
+    <zona_calidad_aire_descripcion>Zona 5 Sierra Norte</zona_calidad_aire_descripcion>
+    <estacion_municipio>Guadalix de la Sierra</estacion_municipio>
+    <estacion_fecha_alta>2006/10/31 00:00:00.000</estacion_fecha_alta>
+    <estacion_tipo_area>Rural</estacion_tipo_area>
+    <estacion_tipo_estacion>Fondo</estacion_tipo_estacion>
+    <estacion_subarea_rural>Regional</estacion_subarea_rural>
+    <estacion_direccion_postal>Camino de Chozas, s/n</estacion_direccion_postal>
+    <estacion_coord_UTM_ETRS89_x>440751</estacion_coord_UTM_ETRS89_x>
+    <estacion_coord_UTM_ETRS89_y>4514644</estacion_coord_UTM_ETRS89_y>
+    <estacion_coord_longitud>"03°42'07,8""W"</estacion_coord_longitud>
+    <estacion_coord_latitud>"40°46'50,3""N"</estacion_coord_latitud>
+    <estacion_altitud>853</estacion_altitud>
+    <estacion_analizador_NO>Si</estacion_analizador_NO>
+    <estacion_analizador_NO2>Si</estacion_analizador_NO2>
+    <estacion_analizador_PM10>Si</estacion_analizador_PM10>
+    <estacion_analizador_PM2_5 />
+    <estacion_analizador_O3>Si</estacion_analizador_O3>
+    <estacion_analizador_TOL />
+    <estacion_analizador_BEN />
+    <estacion_analizador_XIL />
+    <estacion_analizador_CO>Si</estacion_analizador_CO>
+    <estacion_analizador_SO2>Si</estacion_analizador_SO2>
+    <estacion_analizador_HCT />
+    <estacion_analizador_HNM />
+  </item>
+  <item>
+    <estacion_codigo>28074007</estacion_codigo>
+    <zona_calidad_aire_descripcion>Zona 3 Urbana Sur</zona_calidad_aire_descripcion>
+    <estacion_municipio>Leganés</estacion_municipio>
+    <estacion_fecha_alta>2000/05/01 00:00:00.000</estacion_fecha_alta>
+    <estacion_tipo_area>Urbana</estacion_tipo_area>
+    <estacion_tipo_estacion>Tráfico</estacion_tipo_estacion>
+    <estacion_subarea_rural />
+    <estacion_direccion_postal>C.E.P.A. Rosalía de Castro, C/ Roncal (Avda. de la Mancha, 50)</estacion_direccion_postal>
+    <estacion_coord_UTM_ETRS89_x>435914</estacion_coord_UTM_ETRS89_x>
+    <estacion_coord_UTM_ETRS89_y>4465744</estacion_coord_UTM_ETRS89_y>
+    <estacion_coord_longitud>"03°45'16,3""W"</estacion_coord_longitud>
+    <estacion_coord_latitud>"40°20'23,2""N"</estacion_coord_latitud>
+    <estacion_altitud>676</estacion_altitud>
+    <estacion_analizador_NO>Si</estacion_analizador_NO>
+    <estacion_analizador_NO2>Si</estacion_analizador_NO2>
+    <estacion_analizador_PM10 />
+    <estacion_analizador_PM2_5>Si</estacion_analizador_PM2_5>
+    <estacion_analizador_O3>Si</estacion_analizador_O3>
+    <estacion_analizador_TOL />
+    <estacion_analizador_BEN />
+    <estacion_analizador_XIL />
+    <estacion_analizador_CO />
+    <estacion_analizador_SO2 />
+    <estacion_analizador_HCT />
+    <estacion_analizador_HNM />
+  </item>
+  <item>
+    <estacion_codigo>28080003</estacion_codigo>
+    <zona_calidad_aire_descripcion>Zona 4 Urbana Noroeste</zona_calidad_aire_descripcion>
+    <estacion_municipio>Majadahonda</estacion_municipio>
+    <estacion_fecha_alta>2001/10/06 00:00:00.000</estacion_fecha_alta>
+    <estacion_tipo_area>Suburbana</estacion_tipo_area>
+    <estacion_tipo_estacion>Fondo</estacion_tipo_estacion>
+    <estacion_subarea_rural />
+    <estacion_direccion_postal>Campo de golf, C/ Isaac Albéniz</estacion_direccion_postal>
+    <estacion_coord_UTM_ETRS89_x>426307</estacion_coord_UTM_ETRS89_x>
+    <estacion_coord_UTM_ETRS89_y>4477645</estacion_coord_UTM_ETRS89_y>
+    <estacion_coord_longitud>03°52'08,4''W</estacion_coord_longitud>
+    <estacion_coord_latitud>40°26'46,3''N</estacion_coord_latitud>
+    <estacion_altitud>360</estacion_altitud>
+    <estacion_analizador_NO>Si</estacion_analizador_NO>
+    <estacion_analizador_NO2>Si</estacion_analizador_NO2>
+    <estacion_analizador_PM10>Si</estacion_analizador_PM10>
+    <estacion_analizador_PM2_5 />
+    <estacion_analizador_O3>Si</estacion_analizador_O3>
+    <estacion_analizador_TOL />
+    <estacion_analizador_BEN />
+    <estacion_analizador_XIL />
+    <estacion_analizador_CO>Si</estacion_analizador_CO>
+    <estacion_analizador_SO2 />
+    <estacion_analizador_HCT />
+    <estacion_analizador_HNM />
+  </item>
+  <item>
+    <estacion_codigo>28092005</estacion_codigo>
+    <zona_calidad_aire_descripcion>Zona 3 Urbana Sur</zona_calidad_aire_descripcion>
+    <estacion_municipio>Móstoles</estacion_municipio>
+    <estacion_fecha_alta>2000/05/01 00:00:00.000</estacion_fecha_alta>
+    <estacion_tipo_area>Suburbana</estacion_tipo_area>
+    <estacion_tipo_estacion>Fondo</estacion_tipo_estacion>
+    <estacion_subarea_rural />
+    <estacion_direccion_postal>Parque Liana</estacion_direccion_postal>
+    <estacion_coord_UTM_ETRS89_x>425516</estacion_coord_UTM_ETRS89_x>
+    <estacion_coord_UTM_ETRS89_y>4464113</estacion_coord_UTM_ETRS89_y>
+    <estacion_coord_longitud>"03°52'36,3""W"</estacion_coord_longitud>
+    <estacion_coord_latitud>"40°19'27,2""N"</estacion_coord_latitud>
+    <estacion_altitud>660</estacion_altitud>
+    <estacion_analizador_NO>Si</estacion_analizador_NO>
+    <estacion_analizador_NO2>Si</estacion_analizador_NO2>
+    <estacion_analizador_PM10 />
+    <estacion_analizador_PM2_5>Si</estacion_analizador_PM2_5>
+    <estacion_analizador_O3>Si</estacion_analizador_O3>
+    <estacion_analizador_TOL>Si</estacion_analizador_TOL>
+    <estacion_analizador_BEN>Si</estacion_analizador_BEN>
+    <estacion_analizador_XIL>Si</estacion_analizador_XIL>
+    <estacion_analizador_CO />
+    <estacion_analizador_SO2>Si</estacion_analizador_SO2>
+    <estacion_analizador_HCT>Si</estacion_analizador_HCT>
+    <estacion_analizador_HNM>Si</estacion_analizador_HNM>
+  </item>
+  <item>
+    <estacion_codigo>28102001</estacion_codigo>
+    <zona_calidad_aire_descripcion>Zona 7 Cuenca del Tajuña</zona_calidad_aire_descripcion>
+    <estacion_municipio>Orusco de Tajuña</estacion_municipio>
+    <estacion_fecha_alta>2006/09/29 00:00:00.000</estacion_fecha_alta>
+    <estacion_tipo_area>Rural</estacion_tipo_area>
+    <estacion_tipo_estacion>Fondo</estacion_tipo_estacion>
+    <estacion_subarea_rural>Remota</estacion_subarea_rural>
+    <estacion_direccion_postal>Camino forestal de acceso al repetidor de telefonía</estacion_direccion_postal>
+    <estacion_coord_UTM_ETRS89_x>481205</estacion_coord_UTM_ETRS89_x>
+    <estacion_coord_UTM_ETRS89_y>4459700</estacion_coord_UTM_ETRS89_y>
+    <estacion_coord_longitud>"03°13'16,0""W"</estacion_coord_longitud>
+    <estacion_coord_latitud>"40°17'15,3""N"</estacion_coord_latitud>
+    <estacion_altitud>800</estacion_altitud>
+    <estacion_analizador_NO>Si</estacion_analizador_NO>
+    <estacion_analizador_NO2>Si</estacion_analizador_NO2>
+    <estacion_analizador_PM10>Si</estacion_analizador_PM10>
+    <estacion_analizador_PM2_5 />
+    <estacion_analizador_O3>Si</estacion_analizador_O3>
+    <estacion_analizador_TOL />
+    <estacion_analizador_BEN />
+    <estacion_analizador_XIL />
+    <estacion_analizador_CO />
+    <estacion_analizador_SO2 />
+    <estacion_analizador_HCT />
+    <estacion_analizador_HNM />
+  </item>
+  <item>
+    <estacion_codigo>28120001</estacion_codigo>
+    <zona_calidad_aire_descripcion>Zona 5 Sierra Norte</zona_calidad_aire_descripcion>
+    <estacion_municipio>Rascafría (Puerto de Cotos)</estacion_municipio>
+    <estacion_fecha_alta>2019/01/01 00:00:00.000</estacion_fecha_alta>
+    <estacion_tipo_area>Rural</estacion_tipo_area>
+    <estacion_tipo_estacion>Fondo</estacion_tipo_estacion>
+    <estacion_subarea_rural>Remota</estacion_subarea_rural>
+    <estacion_direccion_postal>Centro de Visitantes Peñalara, Ctra. M-604, km 42 (Puerto de Cotos, Rascafría)</estacion_direccion_postal>
+    <estacion_coord_UTM_ETRS89_x>418948</estacion_coord_UTM_ETRS89_x>
+    <estacion_coord_UTM_ETRS89_y>4519788</estacion_coord_UTM_ETRS89_y>
+    <estacion_coord_longitud>"03°57'40,3""W"</estacion_coord_longitud>
+    <estacion_coord_latitud>"40°49'30,4""N"</estacion_coord_latitud>
+    <estacion_altitud>1870</estacion_altitud>
+    <estacion_analizador_NO>Si</estacion_analizador_NO>
+    <estacion_analizador_NO2>Si</estacion_analizador_NO2>
+    <estacion_analizador_PM10>Si</estacion_analizador_PM10>
+    <estacion_analizador_PM2_5>Si</estacion_analizador_PM2_5>
+    <estacion_analizador_O3>Si</estacion_analizador_O3>
+    <estacion_analizador_TOL>Si</estacion_analizador_TOL>
+    <estacion_analizador_BEN>Si</estacion_analizador_BEN>
+    <estacion_analizador_XIL>Si</estacion_analizador_XIL>
+    <estacion_analizador_CO>Si</estacion_analizador_CO>
+    <estacion_analizador_SO2>Si</estacion_analizador_SO2>
+    <estacion_analizador_HCT>Si</estacion_analizador_HCT>
+    <estacion_analizador_HNM>Si</estacion_analizador_HNM>
+  </item>
+  <item>
+    <estacion_codigo>28123002</estacion_codigo>
+    <zona_calidad_aire_descripcion>Zona 2 Corredor del Henares</zona_calidad_aire_descripcion>
+    <estacion_municipio>Rivas-Vaciamadrid</estacion_municipio>
+    <estacion_fecha_alta>2006/08/02 00:00:00.000</estacion_fecha_alta>
+    <estacion_tipo_area>Suburbana</estacion_tipo_area>
+    <estacion_tipo_estacion>Fondo</estacion_tipo_estacion>
+    <estacion_subarea_rural />
+    <estacion_direccion_postal>Polideportivo Cerro del Telégrafo, C/ Juncal (Avda. Los Almendros, 1)</estacion_direccion_postal>
+    <estacion_coord_UTM_ETRS89_x>453906</estacion_coord_UTM_ETRS89_x>
+    <estacion_coord_UTM_ETRS89_y>4467829</estacion_coord_UTM_ETRS89_y>
+    <estacion_coord_longitud>"03°32'34,3""W"</estacion_coord_longitud>
+    <estacion_coord_latitud>"40°21'35,1""N"</estacion_coord_latitud>
+    <estacion_altitud>608</estacion_altitud>
+    <estacion_analizador_NO>Si</estacion_analizador_NO>
+    <estacion_analizador_NO2>Si</estacion_analizador_NO2>
+    <estacion_analizador_PM10>Si</estacion_analizador_PM10>
+    <estacion_analizador_PM2_5 />
+    <estacion_analizador_O3>Si</estacion_analizador_O3>
+    <estacion_analizador_TOL />
+    <estacion_analizador_BEN />
+    <estacion_analizador_XIL />
+    <estacion_analizador_CO />
+    <estacion_analizador_SO2 />
+    <estacion_analizador_HCT />
+    <estacion_analizador_HNM />
+  </item>
+  <item>
+    <estacion_codigo>28133002</estacion_codigo>
+    <zona_calidad_aire_descripcion>Zona 6 Cuenca del Alberche</zona_calidad_aire_descripcion>
+    <estacion_municipio>San Martín de Valdeiglesias</estacion_municipio>
+    <estacion_fecha_alta>2006/08/24 00:00:00.000</estacion_fecha_alta>
+    <estacion_tipo_area>Rural</estacion_tipo_area>
+    <estacion_tipo_estacion>Fondo</estacion_tipo_estacion>
+    <estacion_subarea_rural>Regional</estacion_subarea_rural>
+    <estacion_direccion_postal>C/ Depósito s/n</estacion_direccion_postal>
+    <estacion_coord_UTM_ETRS89_x>381298</estacion_coord_UTM_ETRS89_x>
+    <estacion_coord_UTM_ETRS89_y>4469513</estacion_coord_UTM_ETRS89_y>
+    <estacion_coord_longitud>"04°23'53,2""W"</estacion_coord_longitud>
+    <estacion_coord_latitud>"40°22'03,9""N"</estacion_coord_latitud>
+    <estacion_altitud>549</estacion_altitud>
+    <estacion_analizador_NO>Si</estacion_analizador_NO>
+    <estacion_analizador_NO2>Si</estacion_analizador_NO2>
+    <estacion_analizador_PM10>Si</estacion_analizador_PM10>
+    <estacion_analizador_PM2_5>Si</estacion_analizador_PM2_5>
+    <estacion_analizador_O3>Si</estacion_analizador_O3>
+    <estacion_analizador_TOL />
+    <estacion_analizador_BEN />
+    <estacion_analizador_XIL />
+    <estacion_analizador_CO />
+    <estacion_analizador_SO2 />
+    <estacion_analizador_HCT />
+    <estacion_analizador_HNM />
+  </item>
+  <item>
+    <estacion_codigo>28148004</estacion_codigo>
+    <zona_calidad_aire_descripcion>Zona 2 Corredor del Henares</zona_calidad_aire_descripcion>
+    <estacion_municipio>Torrejón de Ardoz</estacion_municipio>
+    <estacion_fecha_alta>2005/01/01 00:00:00.000</estacion_fecha_alta>
+    <estacion_tipo_area>Suburbana</estacion_tipo_area>
+    <estacion_tipo_estacion>Fondo</estacion_tipo_estacion>
+    <estacion_subarea_rural />
+    <estacion_direccion_postal>Parque del Ocio</estacion_direccion_postal>
+    <estacion_coord_UTM_ETRS89_x>459497</estacion_coord_UTM_ETRS89_x>
+    <estacion_coord_UTM_ETRS89_y>4477765</estacion_coord_UTM_ETRS89_y>
+    <estacion_coord_longitud>"03°28'39,5""W"</estacion_coord_longitud>
+    <estacion_coord_latitud>"40°26'58,4""N"</estacion_coord_latitud>
+    <estacion_altitud>597</estacion_altitud>
+    <estacion_analizador_NO>Si</estacion_analizador_NO>
+    <estacion_analizador_NO2>Si</estacion_analizador_NO2>
+    <estacion_analizador_PM10>Si</estacion_analizador_PM10>
+    <estacion_analizador_PM2_5 />
+    <estacion_analizador_O3>Si</estacion_analizador_O3>
+    <estacion_analizador_TOL />
+    <estacion_analizador_BEN />
+    <estacion_analizador_XIL />
+    <estacion_analizador_CO />
+    <estacion_analizador_SO2 />
+    <estacion_analizador_HCT />
+    <estacion_analizador_HNM />
+  </item>
+  <item>
+    <estacion_codigo>28161001</estacion_codigo>
+    <zona_calidad_aire_descripcion>Zona 3 Urbana Sur</zona_calidad_aire_descripcion>
+    <estacion_municipio>Valdemoro</estacion_municipio>
+    <estacion_fecha_alta>2006/07/27 00:00:00.000</estacion_fecha_alta>
+    <estacion_tipo_area>Suburbana</estacion_tipo_area>
+    <estacion_tipo_estacion>Fondo</estacion_tipo_estacion>
+    <estacion_subarea_rural />
+    <estacion_direccion_postal>Colegio Público Pedro Antonio de Alarcón, C/ Artemisa, 5</estacion_direccion_postal>
+    <estacion_coord_UTM_ETRS89_x>442089</estacion_coord_UTM_ETRS89_x>
+    <estacion_coord_UTM_ETRS89_y>4448540</estacion_coord_UTM_ETRS89_y>
+    <estacion_coord_longitud>"03°40'49,0""W"</estacion_coord_longitud>
+    <estacion_coord_latitud>"40°11'06,9""N"</estacion_coord_latitud>
+    <estacion_altitud>615</estacion_altitud>
+    <estacion_analizador_NO>Si</estacion_analizador_NO>
+    <estacion_analizador_NO2>Si</estacion_analizador_NO2>
+    <estacion_analizador_PM10>Si</estacion_analizador_PM10>
+    <estacion_analizador_PM2_5>Si</estacion_analizador_PM2_5>
+    <estacion_analizador_O3>Si</estacion_analizador_O3>
+    <estacion_analizador_TOL />
+    <estacion_analizador_BEN />
+    <estacion_analizador_XIL />
+    <estacion_analizador_CO>Si</estacion_analizador_CO>
+    <estacion_analizador_SO2>Si</estacion_analizador_SO2>
+    <estacion_analizador_HCT />
+    <estacion_analizador_HNM />
+  </item>
+  <item>
+    <estacion_codigo>28171001</estacion_codigo>
+    <zona_calidad_aire_descripcion>Zona 6 Cuenca del Alberche</zona_calidad_aire_descripcion>
+    <estacion_municipio>Villa del Prado</estacion_municipio>
+    <estacion_fecha_alta>2006/06/14 00:00:00.000</estacion_fecha_alta>
+    <estacion_tipo_area>Rural</estacion_tipo_area>
+    <estacion_tipo_estacion>Fondo</estacion_tipo_estacion>
+    <estacion_subarea_rural>Remota</estacion_subarea_rural>
+    <estacion_direccion_postal>Hospital Virgen de la Poveda, C/ Alejandro Peris Barrios, km. 5</estacion_direccion_postal>
+    <estacion_coord_UTM_ETRS89_x>391504</estacion_coord_UTM_ETRS89_x>
+    <estacion_coord_UTM_ETRS89_y>4456144</estacion_coord_UTM_ETRS89_y>
+    <estacion_coord_longitud>"04°16'32,4""W"</estacion_coord_longitud>
+    <estacion_coord_latitud>"40°14'55,4""N"</estacion_coord_latitud>
+    <estacion_altitud>510</estacion_altitud>
+    <estacion_analizador_NO>Si</estacion_analizador_NO>
+    <estacion_analizador_NO2>Si</estacion_analizador_NO2>
+    <estacion_analizador_PM10>Si</estacion_analizador_PM10>
+    <estacion_analizador_PM2_5 />
+    <estacion_analizador_O3>Si</estacion_analizador_O3>
+    <estacion_analizador_TOL />
+    <estacion_analizador_BEN />
+    <estacion_analizador_XIL />
+    <estacion_analizador_CO>Si</estacion_analizador_CO>
+    <estacion_analizador_SO2>Si</estacion_analizador_SO2>
+    <estacion_analizador_HCT />
+    <estacion_analizador_HNM />
+  </item>
+  <item>
+    <estacion_codigo>28180001</estacion_codigo>
+    <zona_calidad_aire_descripcion>Zona 7 Cuenca del Tajuña</zona_calidad_aire_descripcion>
+    <estacion_municipio>Villarejo de Salvanés</estacion_municipio>
+    <estacion_fecha_alta>2006/04/25 00:00:00.000</estacion_fecha_alta>
+    <estacion_tipo_area>Suburbana</estacion_tipo_area>
+    <estacion_tipo_estacion>Tráfico</estacion_tipo_estacion>
+    <estacion_subarea_rural />
+    <estacion_direccion_postal>I.E.S. Nuestra Señora de la Victoria de Lepanto, C/ Luis de Requesens, 1-3</estacion_direccion_postal>
+    <estacion_coord_UTM_ETRS89_x>476442</estacion_coord_UTM_ETRS89_x>
+    <estacion_coord_UTM_ETRS89_y>4446354</estacion_coord_UTM_ETRS89_y>
+    <estacion_coord_longitud>"03°16'36,0""W"</estacion_coord_longitud>
+    <estacion_coord_latitud>"40°10'02,0""N"</estacion_coord_latitud>
+    <estacion_altitud>764</estacion_altitud>
+    <estacion_analizador_NO>Si</estacion_analizador_NO>
+    <estacion_analizador_NO2>Si</estacion_analizador_NO2>
+    <estacion_analizador_PM10 />
+    <estacion_analizador_PM2_5>Si</estacion_analizador_PM2_5>
+    <estacion_analizador_O3>Si</estacion_analizador_O3>
+    <estacion_analizador_TOL />
+    <estacion_analizador_BEN />
+    <estacion_analizador_XIL />
+    <estacion_analizador_CO />
+    <estacion_analizador_SO2 />
+    <estacion_analizador_HCT />
+    <estacion_analizador_HNM />
+  </item>
+</calidad_aire_estaciones>

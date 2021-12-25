@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<magnitudes_meteorizacion>
+  <item>
+    <cod_magnitud>81</cod_magnitud>
+    <desc_magnitud>Velocidad del viento</desc_magnitud>
+    <cod_tec_medida>89</cod_tec_medida>
+    <unidad>m/s</unidad>
+    <desc_unidad>metros por segundo</desc_unidad>
+  </item>
+  <item>
+    <cod_magnitud>82</cod_magnitud>
+    <desc_magnitud>Dirección del viento</desc_magnitud>
+    <cod_tec_medida>89</cod_tec_medida>
+    <unidad>Grd</unidad>
+    <desc_unidad>grados</desc_unidad>
+  </item>
+  <item>
+    <cod_magnitud>83</cod_magnitud>
+    <desc_magnitud>Temperatura</desc_magnitud>
+    <cod_tec_medida>89</cod_tec_medida>
+    <unidad>ºc</unidad>
+    <desc_unidad>grados centígrados</desc_unidad>
+  </item>
+  <item>
+    <cod_magnitud>86</cod_magnitud>
+    <desc_magnitud>Humedad relativa</desc_magnitud>
+    <cod_tec_medida>89</cod_tec_medida>
+    <unidad>%</unidad>
+    <desc_unidad>porcentaje</desc_unidad>
+  </item>
+  <item>
+    <cod_magnitud>87</cod_magnitud>
+    <desc_magnitud>Presión atmosférica</desc_magnitud>
+    <cod_tec_medida>89</cod_tec_medida>
+    <unidad>mbar</unidad>
+    <desc_unidad>milibar</desc_unidad>
+  </item>
+  <item>
+    <cod_magnitud>88</cod_magnitud>
+    <desc_magnitud>Radiación solar</desc_magnitud>
+    <cod_tec_medida>89</cod_tec_medida>
+    <unidad>W/m2</unidad>
+    <desc_unidad>vatios por metro cuadrado</desc_unidad>
+  </item>
+  <item>
+    <cod_magnitud>89</cod_magnitud>
+    <desc_magnitud>Precipitación</desc_magnitud>
+    <cod_tec_medida>89</cod_tec_medida>
+    <unidad>l/m2</unidad>
+    <desc_unidad>litros por metro cuadrado</desc_unidad>
+  </item>
+</magnitudes_meteorizacion>
